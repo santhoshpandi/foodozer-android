@@ -1,10 +1,13 @@
 # foodozer-android
-![image](https://github.com/santhoshpandi/foodozer-android/assets/109999710/a11c070a-b452-4f87-9851-da6cc39e92ce)
-![image](https://github.com/santhoshpandi/foodozer-android/assets/109999710/1f51c55d-693a-4517-994f-2eb881b7264f)
-![image](https://github.com/santhoshpandi/foodozer-android/assets/109999710/83d67c94-34b0-446c-bcea-006ef201f4da)
-![image](https://github.com/santhoshpandi/foodozer-android/assets/109999710/aadb3c83-99c5-4c67-91b2-1c49e1d07d5e)
-![image](https://github.com/santhoshpandi/foodozer-android/assets/109999710/729bb8a1-f71a-4d96-9be9-3b52598d7a57)
-![image](https://github.com/santhoshpandi/foodozer-android/assets/109999710/612646f8-fdf1-4e13-8c6a-8a7e3a88d88f)
+
+![image](https://github.com/santhoshpandi/foodozer-android/assets/109999710/6cdefafe-6f03-4180-bcc9-3941693e5e05)
+![image](https://github.com/santhoshpandi/foodozer-android/assets/109999710/652f3b76-f91e-462b-9dc8-1cf644980749)
+![image](https://github.com/santhoshpandi/foodozer-android/assets/109999710/6291d244-27e5-4d27-bfec-6414bf3fb592)
+![image](https://github.com/santhoshpandi/foodozer-android/assets/109999710/9b9777f8-74ad-459d-b192-5824db9c577f)
+
+
+
+
 
 
 
